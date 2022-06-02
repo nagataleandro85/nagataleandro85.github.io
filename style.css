@@ -24,3 +24,16 @@ img{
 	margin-right: auto;
 	-webkit-box-reflect: below 0px linear-gradient(to bottom, rgba(0,0,0,0.0), rgba(0,0,0,0.4));
 }
+
+
+a{
+	color: whitesmoke;
+}
+
+a:hover{
+	color:rgba(0, 0, 0, 0.874);
+}
+
+a:visited{
+	color:yellow;
+}
